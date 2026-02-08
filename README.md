@@ -41,10 +41,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harsh-verma/">
+  <a href="https://www.linkedin.com/in/harsh-verma-3ba890266/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/harsh0703verma">
+  <a href="https://github.com/harsh-verma-2004">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:harsh0703verma@gmail.com">
