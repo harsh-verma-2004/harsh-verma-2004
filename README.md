@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  <em>Computer Science Engineer • Full-Stack Developer • AI & Backend Enthusiast</em>
+  <em> Final Year Computer Science Student • Full-Stack Developer • AI & Backend Enthusiast</em>
 </h3>
 
 <p align="center">
